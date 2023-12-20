@@ -748,6 +748,244 @@
         margin-left: 10px;
        }
     }
+  @media screen and  (max-width: 399px){
+        .sec-container{
+            display: grid;
+            grid-template-rows: 1fr;
+            height: 800px;
+        
+        }
+        .sec-para{
+            margin-left: 30px;
+        
+        }
+        .email-box{
+            width: 300px;
+        }
+        #video-sec{
+            margin-left: 50px;  
+            max-width: 350px; 
+            margin-top: 0px;
+            
+        }
+        .background{
+            height: 800px;
+          
+        }
+       
+        
+        .container-para{
+            font-size: 20px;
+            
+            
+        }
+
+        .content-box{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+         
+            margin-top: 80px;
+            
+            
+        }
+        .sub-para{
+            font-size: 16px;
+        }
+        #email-box1{
+            width: 300px;
+            margin-left: 0;
+        }
+        .email-butt2{
+            font-size: 14px;
+            margin-left: 32%;
+            margin-top: 18px;
+        }
+        .greater{
+            font-size: 15px;
+        }
+        .email-container1{
+            display: grid;
+            grid-template-columns: 1fr;
+           
+        
+        }
+        .email-container{
+            display: grid;
+            grid-template-columns: 1fr;
+         
+
+        }
+        .sec-container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            row-gap: 60px;
+          
+        }
+        .sec-para{
+            margin-top: 50px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            
+        }
+        .sub{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 0;
+            font-size: 15px;
+            
+        }
+        #tv-sec{
+            position: relative;
+            border: none;
+            margin-left: -70px;
+        
+        }
+        .heading{
+            font-size: 30px;
+         
+            font-weight: bold;
+        }
+        .overplay{
+            height: 300px;
+            margin-left: 0;
+            
+        }
+        #video-sec{
+            height: 10px;
+            width: 245px;
+            margin-left: 0;
+          
+        }
+        #third-vid{
+            width: 230px;
+            height: 160px;
+            position: absolute;
+            top: 370;
+            left: -105px;
+            z-index: 0;
+        }
+        #fifth-img{
+            width: 380;
+            height: 300;
+            position: absolute;
+            top: 350;
+            left: -183;
+        }
+        .third-img{
+            width: 300px;
+            height: 320px;
+            display: flex;
+            position: relative;
+            left: 80;
+            top: 400;
+
+        }
+        .stranger-things{
+            font-size: 15px;
+        }
+        .fourth-img{
+            width: 40px;
+            height: 50;
+        }
+        .img4-container{
+            width: 200px;
+            left: 130px;
+            bottom: 100px;
+            height: 60px;
+            
+            
+        }
+        .third-para{
+            display: flex;
+            font-weight: bold;
+            font-size: 30;
+            margin-top: -300;
+            margin-left: -270;
+            flex-direction: column;
+            align-items: center;
+
+           
+        }
+        .third-container{
+            height: 600px;
+            
+        }
+        .sub-para2{
+            font-weight: normal;
+            width: 250;
+            color: white;
+            font-size: 18;
+            font-family: Arial, Helvetica, sans-serif;
+           
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .heading-para{
+            font-size: 25px;
+        }
+        .heading-div{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+           
+        }
+       
+       .butt-js{
+        width: 300px;
+       }
+       .sec-butt-js{
+        width: 300px;
+       }
+       .third-butt-js{
+        width: 300px;
+       }
+       .four-butt-js{
+        width: 300px;
+       }
+       .five-butt-js{
+        width: 300px;
+       }
+       .six-butt-js{
+        width: 300px;
+       }
+       .js-result{
+        color: black;
+       }
+       .js-result2{
+        color: black;
+       }
+       .js-result3{
+        color: black;
+       }
+       .js-result4{
+        color: black;
+       }
+       .js-result5{
+        color: black;
+       }
+       .js-result6{
+        color: black;
+       }
+       .footer-netflix{
+        font-size: 14px;
+       }
+       .email-para{
+        font-size: 20px;
+        margin-left: 30px;
+       }
+       span{
+        margin-left: 10px;
+       }
+       .sub-para{
+        margin-left: 10px;
+       }
+    }
     #tv-sec{
         position: relative;
         border: none;
